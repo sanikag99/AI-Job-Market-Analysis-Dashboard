@@ -68,6 +68,3 @@ The dashboard can be used to explore:
 
 ![AI Job Market Dashboard](Screenshot%20for%20AI%20Job%20Market%20Analysis%20Dashboard.png)
 
-shot for AI Job Market Analysis Dashboard.png
-├── tableu ai project.twbx
-└── README.md
